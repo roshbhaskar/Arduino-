@@ -1,2 +1,2 @@
 # Arduino-
-figuring out arduino uno and nano
+Calculator and Stopwatch stimulated using Arduino Uno
